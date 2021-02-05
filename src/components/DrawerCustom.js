@@ -125,7 +125,7 @@ export default (props) => {
             </ChangeUnitArea>
             <FooterArea>
                 <FooterInfo>
-                    <FooterProfile>Olá Maj Franqui</FooterProfile>
+                    <FooterProfile>Olá Paulo Peixoto</FooterProfile>
                     <FooterUnitText>ADMINISTRADOR GERAL</FooterUnitText>
                 </FooterInfo>
                 <FooterUnitButton>
